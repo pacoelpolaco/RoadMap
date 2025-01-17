@@ -1,3 +1,3 @@
 # frontend
 My frontend projects
-Following the steps of https://roadmap.sh/projects/single-page-cv
+file://wsl.localhost/Ubuntu/home/franr/HTML/index.html
