@@ -1,0 +1,18 @@
+.barra{
+    background-color: aquamarine;
+    ul {
+        list-style-type: none;
+        margin:0;
+        padding:0;
+        text-align: center;
+        li{
+            display: inline;
+            padding: 0 35px;
+        }
+    }
+}
+.subtitle{
+    color:grey; 
+    text-align:center;
+    font-style:italic;
+}
