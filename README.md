@@ -4,3 +4,4 @@ This repository contains projectos built following various [roadmap.sh](https://
 ## Projects List
 [Single Page CV](https://roadmap.sh/projects/single-page-cv)
 [Basic HTML](https://roadmap.sh/projects/basic-html-website)
+[Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
